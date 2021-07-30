@@ -1,3 +1,3 @@
 # kokoa clone update
 
-Css ogt so much better!
+HTML & CSS are so much fun!
