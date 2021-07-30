@@ -1,3 +1,3 @@
-# kokoa clone update
+# kokoa clone
 
-HTML & CSS are so much fun!
+HTML & CSS
